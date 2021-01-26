@@ -1,0 +1,26 @@
+{
+  "name": "news-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leejin21/news-server.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leejin21/news-server/issues"
+  },
+  "homepage": "https://github.com/leejin21/news-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
